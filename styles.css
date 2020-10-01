@@ -25,6 +25,10 @@ button{
     0 9px 29px rgba(0, 0, 0, 0.219);
 }
 
+.button:focus{
+    outline:none;
+}
+
 .modal-container{
     display: flex;
     align-items: center;
